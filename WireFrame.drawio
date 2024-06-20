@@ -1,35 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T02:20:25.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="xWZ3KqIwg9F3ueRdULAQ" version="24.4.13" type="device">
+<mxfile host="app.diagrams.net" modified="2024-06-20T22:51:05.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="9zuiLZanIgYb_A3j_7iN" version="24.4.14" type="device">
   <diagram name="Page-1" id="0l7ROccEP6lqSc5vltxt">
     <mxGraphModel dx="1393" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry y="120" width="850" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-63" value="QR Code Designer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-63" value="Welcome To QR Code Designer!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry width="850" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-64" value="QR Code" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="285" y="380" width="280" height="280" as="geometry" />
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-64" value="QR Code" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="285" y="490" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-65" value="QR Code Body Type List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="268" y="160" width="315" height="20" as="geometry" />
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-65" value="QR Code Body Type List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="268" y="270" width="315" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-66" value="QR Code Eye Type List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="268" y="230" width="315" height="20" as="geometry" />
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-66" value="QR Code Eye Type List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="268" y="340" width="315" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-67" value="QR Code Eyeball Type List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="268" y="300" width="315" height="20" as="geometry" />
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-67" value="QR Code Eyeball Type List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="268" y="410" width="315" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-68" value="Generate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="365" y="190" width="120" height="20" as="geometry" />
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-68" value="Generate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="365" y="300" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-69" value="Generate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="365" y="260" width="120" height="20" as="geometry" />
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-69" value="Generate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="365" y="370" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-70" value="Generate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="365" y="330" width="120" height="20" as="geometry" />
+        <mxCell id="T_Avf6Wd_mKNB6yFoCMX-70" value="Generate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="365" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DuxwzNfEOWzlHwmMZzpq-1" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;Below you can choose the body type, eye type, and eyeball type for your QR Code.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DuxwzNfEOWzlHwmMZzpq-3" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;This&amp;nbsp;&lt;/span&gt;&lt;u&gt;Link&lt;/u&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: start;&quot;&gt;&amp;nbsp;takes you to the wiki page about QR Codes.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="248" y="130" width="355" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
