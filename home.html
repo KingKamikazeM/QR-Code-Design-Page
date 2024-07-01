@@ -13,27 +13,21 @@
 
     <body>
         <h1> Welcome To QR Code Designer!</h1>
-        <div>
+        <div class="panel">
             <p> This <a href="https://en.wikipedia.org/wiki/QR_code">Link</a> takes you to the wiki page about QR Codes.</p>
             <p> Below you can choose the body type, eye type, and eyeball type for your QR Code.</p>
             <p> Body Type</p>
-            <select>
-                <option>Test Option</option>
-            </select>
+            <select name="body-type" class="body"></select>
             <input type="button" value="Generate">
             <p> Eye Type</p>
-            <select>
-                <option>Test Option</option>
-            </select>
+            <select name="eye-type" class="eye"></select>
             <input type="button" value="Generate">
             <p> Eyeball Type</p>
-            <select>
-                <option>Test Option</option>
-            </select>
+            <select name="eyeball-type" class="eyeball"></select>
             <input type="button" value="Generate">
         </div>
-        <div>
-            <img src="" alt="">
+        <div class="panel">
+            <img id="qr-code"></img>
         </div>
     </body>
 </html>
