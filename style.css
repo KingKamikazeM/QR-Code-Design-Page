@@ -2,3 +2,19 @@
 Author: Cristian Perez
 This is the css file for my QR Code Design Page
 */
+
+h1{
+    color: aliceblue;
+    background-color: red;
+    margin: 0;
+    padding: 0.5cm;
+    border-radius: 10px;
+}
+
+.panel{
+    color: aliceblue;
+    background-color: gray;
+    margin: 0;
+    padding: 0.5cm;
+    border-radius: 10px;
+}
